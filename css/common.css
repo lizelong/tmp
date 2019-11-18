@@ -1,0 +1,20 @@
+body{
+    padding-top:50px;
+}
+.home-bg{
+    background:url('../img/home-bg.jpg') no-repeat center;
+    background-size:cover;
+    padding:100px;
+    text-align:center;
+}
+.title{
+    font-size:35px;
+}
+.zhaiyao{
+    font-size:20px;
+}
+.copyright{
+    text-align:center;
+    color:#fff;
+    padding-top:20px;
+}
